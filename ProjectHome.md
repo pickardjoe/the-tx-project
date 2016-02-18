@@ -1,0 +1,1 @@
+This project allows any USB HID device to be connected to the circuits@home usb shield to create a PPM signal that can be used in any RC transmitter device that makes use of a PPM signal.
